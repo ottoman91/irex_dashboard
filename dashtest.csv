@@ -1,0 +1,254 @@
+Program Name,Country,Fiscal Year,Reporting Period,Indicator Number,M&E Indicator Disaggregation Record Type,M&E Indicator Disaggregation Value,Timing of data collection,No Results To Enter Reason,Results (Number),practice area
+project1,Colombia,2016,Apr-Jun,3.A,m. Institution Type,HEI/Community college/Career center,,,1,Youth
+project2,Bangladesh,2017,Jul-Sep,2.B,a. Country,Overall,,,1,Education
+project2,Bangladesh,2017,Jul-Sep,2.B,b. Gender,Female,,,1,Education
+project2,Bangladesh,2017,Jul-Sep,2.B,c. Youth/Adult,a. Youth,,,1,Education
+project2,Bangladesh,2017,Jul-Sep,2.B,k. Leader Type,Other,,,1,Education
+project2,Bangladesh,2017,Jul-Sep,2.C,a. Country,Overall,,,1,Education
+project2,Bangladesh,2017,Jul-Sep,2.C,b. Gender,Female,,,1,Education
+project2,Bangladesh,2017,Jul-Sep,2.C,c. Youth/Adult,a. Youth,,,1,Education
+project2,Bangladesh,2017,Jul-Sep,2.C,k. Leader Type,Other,,,1,Education
+project2,Brazil,2016,Jan-Mar,1.A,b. Gender,Male,,,1,Education
+project2,Brazil,2016,Jan-Mar,1.A,b. Gender,Female,,,1,Education
+project2,Brazil,2016,Jan-Mar,1.B,b. Gender,Male,,,1,Education
+project2,Brazil,2016,Jan-Mar,1.B,b. Gender,Female,,,1,Education
+project2,Brazil,2016,Jan-Mar,1.C,b. Gender,Male,,,1,Education
+project2,Brazil,2016,Jan-Mar,1.C,b. Gender,Female,,,1,Education
+project2,Brazil,2016,Jan-Mar,2.A,b. Gender,Male,,,1,Education
+project2,Brazil,2016,Jan-Mar,2.A,b. Gender,Female,,,1,Education
+project2,Brazil,2017,Jul-Sep,2.B,a. Country,Overall,,No data available this quarter,1,Education
+project2,Brazil,2017,Jul-Sep,2.B,b. Gender,Male,,,1,Education
+project2,Brazil,2017,Jul-Sep,2.B,c. Youth/Adult,a. Youth,,,1,Education
+project2,Brazil,2017,Jul-Sep,2.C,a. Country,Overall,,,1,Education
+project2,Brazil,2017,Jul-Sep,2.C,b. Gender,Male,,,1,Education
+project2,Brazil,2017,Jul-Sep,2.C,c. Youth/Adult,a. Youth,,,1,Education
+project2,Colombia,2016,Jan-Mar,1.A,b. Gender,Male,,,1,Education
+project2,Colombia,2016,Jan-Mar,1.A,d. Age Range,b. Late adolescence (15-19),,,1,Education
+project2,Colombia,2016,Jan-Mar,1.B,b. Gender,Male,,,1,Education
+project2,Colombia,2016,Jan-Mar,1.C,b. Gender,Male,,,1,Education
+project2,Colombia,2016,Jan-Mar,1.C,d. Age Range,b. Late adolescence (15-19),,,1,Education
+project2,Colombia,2016,Jan-Mar,2.A,b. Gender,Male,,,1,Education
+project2,Colombia,2017,Jul-Sep,1.A,d. Age Range,b. Late adolescence (15-19),,,1,Education
+project2,Colombia,2017,Jul-Sep,2.B,a. Country,Overall,,,1,Education
+project2,Colombia,2017,Jul-Sep,2.B,b. Gender,Female,,,1,Education
+project2,Colombia,2017,Jul-Sep,2.B,c. Youth/Adult,a. Youth,,,1,Education
+project2,Colombia,2017,Jul-Sep,2.C,a. Country,Overall,,,1,Education
+project2,Colombia,2017,Jul-Sep,2.C,b. Gender,Female,,,1,Education
+project2,Colombia,2017,Jul-Sep,2.C,c. Youth/Adult,a. Youth,,,1,Education
+project3,Albania,2016,Jan-Mar,3.A,m. Institution Type,HEI/Community college/Career center,,,1,Communities & Governance
+project3,Albania,2016,Jan-Mar,3.A,m. Institution Type,CSO,,,1,Communities & Governance
+project3,Bangladesh,2016,Jan-Mar,2.A,a. Country,Overall,,,1,Communities & Governance
+project3,Bangladesh,2016,Jan-Mar,2.A,b. Gender,Male,,,1,Communities & Governance
+project3,Bangladesh,2016,Jan-Mar,2.A,h. Intensity of Intervention,c. Long-term,,,1,Communities & Governance
+project3,Bangladesh,2016,Jan-Mar,3.A,a. Country,Overall,,,1,Communities & Governance
+project3,Bangladesh,2016,Jan-Mar,3.A,m. Institution Type,CSO,,,1,Communities & Governance
+project3,Brazil,2017,Jul-Sep,2.A,a. Country,Overall,,,1,Communities & Governance
+project3,Brazil,2016,Jan-Mar,2.A,b. Gender,Male,,,1,Communities & Governance
+project3,Brazil,2017,Jul-Sep,2.A,b. Gender,Female,,,1,Communities & Governance
+project3,Brazil,2016,Jan-Mar,2.A,b. Gender,Female,,,1,Communities & Governance
+project3,Brazil,2017,Jul-Sep,2.A,h. Intensity of Intervention,c. Long-term,,,1,Communities & Governance
+project3,Brazil,2017,Jul-Sep,3.A,a. Country,Overall,,,1,Communities & Governance
+project3,Brazil,2017,Jul-Sep,3.A,m. Institution Type,CSO,,,1,Communities & Governance
+project3,Bulgaria,2016,Jan-Mar,2.A,a. Country,Overall,,,1,Communities & Governance
+project3,Bulgaria,2016,Jan-Mar,2.A,b. Gender,Male,,,1,Communities & Governance
+project3,Bulgaria,2016,Jan-Mar,2.A,h. Intensity of Intervention,c. Long-term,,,1,Communities & Governance
+project3,Bulgaria,2016,Jan-Mar,3.A,a. Country,Overall,,,1,Communities & Governance
+project3,Bulgaria,2016,Jan-Mar,3.A,m. Institution Type,CSO,,,1,Communities & Governance
+project3,Cambodia,2017,Jul-Sep,2.A,h. Intensity of Intervention,c. Long-term,,,1,Communities & Governance
+project4,Angola,2016,Oct-Dec,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Leadership
+project4,Angola,2016,Oct-Dec,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Leadership
+project4,Benin,2016,Oct-Dec,1.C,f. Location,Semi-urban,,,1,Leadership
+project4,Benin,2016,Oct-Dec,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Leadership
+project4,Benin,2016,Oct-Dec,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Leadership
+project4,Benin,2016,Oct-Dec,1.A,f. Location,Semi-urban,,,1,Leadership
+project4,Burkina Faso,2016,Apr-Jun,2.A,f. Location,Semi-urban,,,1,Leadership
+project4,Burundi,2016,Apr-Jun,2.A,f. Location,Semi-urban,,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,1.A,a. Country,Overall,,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,1.A,b. Gender,Male,,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,1.A,d. Age Range,d. Transition to adulthood (25-29),,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,1.A,f. Location,Urban,,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,1.C,f. Location,Urban,,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,1.C,a. Country,Overall,,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,1.C,b. Gender,Male,,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,1.C,d. Age Range,d. Transition to adulthood (25-29),,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,1.C,h. Intensity of Intervention,b. Medium-term,,,1,Leadership
+project4,Cabo Verde,2016,Apr-Jun,2.C,c. Youth/Adult,a. Youth,,,1,Leadership
+project4,Cameroon,2016,Apr-Jun,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Leadership
+project4,Cameroon,2016,Apr-Jun,1.A,f. Location,Semi-urban,,,1,Leadership
+project4,Cameroon,2016,Apr-Jun,1.A,f. Location,Rural,,,1,Leadership
+project4,Cameroon,2016,Apr-Jun,1.C,f. Location,Semi-urban,,,1,Leadership
+project4,Cameroon,2016,Apr-Jun,1.C,f. Location,Rural,,,1,Leadership
+project4,Cameroon,2016,Apr-Jun,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Leadership
+project4,Central African Republic,2016,Apr-Jun,1.A,b. Gender,Female,,,1,Leadership
+project4,Central African Republic,2016,Apr-Jun,1.C,b. Gender,Female,,,1,Leadership
+project4,Chad,2016,Apr-Jun,2.A,f. Location,Semi-urban,,,1,Leadership
+project4,Comoros,2016,Apr-Jun,2.A,b. Gender,Female,,,1,Leadership
+project4,Comoros,2016,Apr-Jun,2.A,f. Location,Rural,,,1,Leadership
+project4,Comoros,2016,Apr-Jun,2.C,b. Gender,Female,,,1,Leadership
+project4,Comoros,2016,Apr-Jun,2.C,c. Youth/Adult,b. Adult,,,1,Leadership
+project4,Comoros,2016,Apr-Jun,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Leadership
+project4,Comoros,2016,Apr-Jun,1.A,d. Age Range,d. Transition to adulthood (25-29),,,1,Leadership
+project4,Comoros,2016,Apr-Jun,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Leadership
+project4,Comoros,2016,Apr-Jun,1.C,d. Age Range,d. Transition to adulthood (25-29),,,1,Leadership
+project5,Angola,2017,Jul-Sep,2.E,b. Gender,Female,,,1,Youth
+project5,Angola,2017,Jul-Sep,2.E,a. Country,Overall,,,1,Youth
+project5,Angola,2017,Jul-Sep,2.E,f. Location,Urban,,,1,Youth
+project5,Angola,2017,Oct-Dec,2.A,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Angola,2017,Jul-Sep,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Angola,2017,Jul-Sep,2.A,e. Underserved Group,b. Persons with disabilities,,,1,Youth
+project5,Angola,2017,Jul-Sep,2.A,f. Location,Rural,,,1,Youth
+project5,Angola,2017,Jul-Sep,2.E,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Angola,2017,Jul-Sep,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Angola,2017,Oct-Dec,2.A,a. Country,Overall,,,1,Youth
+project5,Angola,2017,Oct-Dec,2.A,b. Gender,Female,,,1,Youth
+project5,Angola,2017,Oct-Dec,2.A,f. Location,Urban,,,1,Youth
+project5,Angola,2017,Jul-Sep,2.B,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Angola,2017,Jul-Sep,2.B,b. Gender,Female,,,1,Youth
+project5,Angola,2017,Jul-Sep,2.B,c. Youth/Adult,a. Youth,,,1,Youth
+project5,Angola,2017,Jul-Sep,2.C,e. Underserved Group,b. Persons with disabilities,,,1,Youth
+project5,Benin,2017,Jul-Sep,1.A,e. Underserved Group,b. Persons with disabilities,,,1,Youth
+project5,Benin,2017,Jul-Sep,1.B,e. Underserved Group,b. Persons with disabilities,,,1,Youth
+project5,Benin,2017,Jul-Sep,1.C,e. Underserved Group,b. Persons with disabilities,,,1,Youth
+project5,Benin,2017,Oct-Dec,1.A,a. Country,Overall,,,1,Youth
+project5,Benin,2017,Jul-Sep,1.D,a. Country,Overall,,,1,Youth
+project5,Benin,2017,Jul-Sep,1.D,p. Employer engaged by IREX/partner,a.  IREX,,,1,Youth
+project5,Benin,2017,Jul-Sep,1.D,i. Number Employers Engaged in Following Ways,Internships/apprenticeships,,,1,Youth
+project5,Benin,2017,Oct-Dec,1.A,b. Gender,Female,,,1,Youth
+project5,Benin,2017,Jul-Sep,1.D,j. Employer Type,Civil society/media,,,1,Youth
+project5,Benin,2017,Oct-Dec,1.A,d. Age Range,d. Transition to adulthood (25-29),,,1,Youth
+project5,Benin,2017,Oct-Dec,1.A,f. Location,Urban,,,1,Youth
+project5,Benin,2017,Oct-Dec,1.A,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Benin,2017,Jul-Sep,2.C,e. Underserved Group,b. Persons with disabilities,,,1,Youth
+project5,Benin,2017,Jul-Sep,2.B,e. Underserved Group,b. Persons with disabilities,,,1,Youth
+project5,Benin,2017,Jul-Sep,2.C,c. Youth/Adult,a. Youth,,,1,Youth
+project5,Benin,2017,Oct-Dec,2.A,a. Country,Overall,,,1,Youth
+project5,Benin,2017,Oct-Dec,2.A,b. Gender,Female,,,1,Youth
+project5,Benin,2017,Oct-Dec,2.A,f. Location,Urban,,,1,Youth
+project5,Benin,2017,Oct-Dec,2.A,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Benin,2017,Oct-Dec,2.A,h. Intensity of Intervention,c. Long-term,,,1,Youth
+project5,Benin,2017,Jul-Sep,2.E,e. Underserved Group,b. Persons with disabilities,,,1,Youth
+project5,Botswana,2017,Oct-Dec,1.A,a. Country,Overall,,,1,Youth
+project5,Botswana,2017,Oct-Dec,1.A,b. Gender,Female,,,1,Youth
+project5,Botswana,2017,Oct-Dec,1.A,d. Age Range,d. Transition to adulthood (25-29),,,1,Youth
+project5,Botswana,2017,Oct-Dec,1.A,f. Location,Urban,,,1,Youth
+project5,Botswana,2017,Oct-Dec,1.A,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Botswana,2017,Oct-Dec,2.A,a. Country,Overall,,,1,Youth
+project5,Botswana,2017,Oct-Dec,2.A,b. Gender,Female,,,1,Youth
+project5,Botswana,2017,Oct-Dec,2.A,f. Location,Urban,,,1,Youth
+project5,Botswana,2017,Oct-Dec,2.A,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Botswana,2017,Jul-Sep,1.A,b. Gender,Male,,,1,Youth
+project5,Botswana,2017,Jul-Sep,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Botswana,2017,Jul-Sep,1.B,b. Gender,Male,,,1,Youth
+project5,Botswana,2017,Jul-Sep,1.C,b. Gender,Male,,,1,Youth
+project5,Botswana,2017,Jul-Sep,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Botswana,2017,Jul-Sep,1.D,i. Number Employers Engaged in Following Ways,Contributing to educational content/curricula,,,1,Youth
+project5,Botswana,2017,Jul-Sep,1.D,j. Employer Type,Private sector,,,1,Youth
+project5,Botswana,2017,Jul-Sep,2.B,c. Youth/Adult,b. Adult,,,1,Youth
+project5,Botswana,2017,Jul-Sep,2.C,b. Gender,Male,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,2.E,b. Gender,Male,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,2.E,a. Country,Overall,,,1,Youth
+project5,Burkina Faso,2017,Oct-Dec,2.A,a. Country,Overall,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,1.C,b. Gender,Male,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Burkina Faso,2017,Oct-Dec,1.A,a. Country,Overall,,,1,Youth
+project5,Burkina Faso,2017,Oct-Dec,1.A,b. Gender,Female,,,1,Youth
+project5,Burkina Faso,2017,Oct-Dec,2.A,b. Gender,Female,,,1,Youth
+project5,Burkina Faso,2017,Oct-Dec,2.A,f. Location,Urban,,,1,Youth
+project5,Burkina Faso,2017,Oct-Dec,2.A,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Burkina Faso,2017,Oct-Dec,1.A,d. Age Range,d. Transition to adulthood (25-29),,,1,Youth
+project5,Burkina Faso,2017,Oct-Dec,1.A,f. Location,Urban,,,1,Youth
+project5,Burkina Faso,2017,Oct-Dec,1.A,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,1.A,b. Gender,Male,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,1.B,b. Gender,Male,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,2.B,a. Country,Overall,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,2.B,b. Gender,Male,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,2.B,c. Youth/Adult,a. Youth,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,2.C,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,2.C,b. Gender,Female,,,1,Youth
+project5,Burkina Faso,2017,Jul-Sep,2.C,c. Youth/Adult,a. Youth,,,1,Youth
+project5,Burundi,2017,Jul-Sep,2.C,a. Country,Overall,,,1,Youth
+project5,Burundi,2017,Jul-Sep,2.C,b. Gender,Male,,,1,Youth
+project5,Burundi,2017,Jul-Sep,2.C,c. Youth/Adult,b. Adult,,,1,Youth
+project5,Burundi,2017,Jul-Sep,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Burundi,2017,Jul-Sep,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Cabo Verde,2017,Oct-Dec,1.A,a. Country,Overall,,,1,Youth
+project5,Cabo Verde,2017,Oct-Dec,1.A,b. Gender,Male,,,1,Youth
+project5,Cabo Verde,2017,Oct-Dec,1.A,d. Age Range,d. Transition to adulthood (25-29),,,1,Youth
+project5,Cabo Verde,2017,Oct-Dec,1.A,f. Location,Urban,,,1,Youth
+project5,Cabo Verde,2017,Oct-Dec,2.A,a. Country,Overall,,,1,Youth
+project5,Cabo Verde,2017,Oct-Dec,2.A,b. Gender,Male,,,1,Youth
+project5,Cabo Verde,2017,Oct-Dec,2.A,f. Location,Urban,,,1,Youth
+project5,Cabo Verde,2017,Jul-Sep,2.E,b. Gender,Female,,,1,Youth
+project5,Cabo Verde,2017,Jul-Sep,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Cabo Verde,2017,Jul-Sep,1.D,a. Country,Overall,,No data available this quarter,1,Youth
+project5,Cabo Verde,2017,Jul-Sep,1.D,p. Employer engaged by IREX/partner,a.  IREX,,,1,Youth
+project5,Cabo Verde,2017,Jul-Sep,1.D,i. Number Employers Engaged in Following Ways,Contributing to educational content/curricula,,,1,Youth
+project5,Cabo Verde,2017,Jul-Sep,2.B,b. Gender,Female,,,1,Youth
+project5,Cabo Verde,2017,Jul-Sep,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Cameroon,2017,Oct-Dec,1.A,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,1.D,a. Country,Overall,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,1.D,p. Employer engaged by IREX/partner,a.  IREX,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,1.D,i. Number Employers Engaged in Following Ways,Internships/apprenticeships,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,1.D,j. Employer Type,Other,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.A,a. Country,Overall,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.A,b. Gender,Female,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.A,f. Location,Urban,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.A,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.B,a. Country,Overall,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.B,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.B,b. Gender,Female,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.B,c. Youth/Adult,a. Youth,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.E,b. Gender,Female,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.E,a. Country,Overall,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.E,f. Location,Urban,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,2.E,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,1.A,a. Country,Overall,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,1.A,b. Gender,Female,,,1,Youth
+project5,Cameroon,2017,Oct-Dec,1.A,d. Age Range,d. Transition to adulthood (25-29),,,1,Youth
+project5,Cameroon,2017,Oct-Dec,1.A,f. Location,Urban,,,1,Youth
+project5,Central African Republic,2017,Oct-Dec,2.A,a. Country,Overall,,,1,Youth
+project5,Central African Republic,2017,Oct-Dec,2.A,b. Gender,Male,,,1,Youth
+project5,Central African Republic,2017,Oct-Dec,2.A,f. Location,Urban,,,1,Youth
+project5,Central African Republic,2017,Jul-Sep,2.C,c. Youth/Adult,a. Youth,,,1,Youth
+project5,Central African Republic,2017,Jul-Sep,2.C,c. Youth/Adult,b. Adult,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.E,b. Gender,Female,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.E,a. Country,Overall,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.E,f. Location,Urban,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.E,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Chad,2017,Jul-Sep,1.A,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Chad,2017,Jul-Sep,1.A,d. Age Range,d. Transition to adulthood (25-29),,,1,Youth
+project5,Chad,2017,Jul-Sep,2.A,b. Gender,Male,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.B,a. Country,Overall,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.B,e. Underserved Group,a_underserved_due_to_sexual_orientation_eg_LGBTI,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.B,b. Gender,Male,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.B,b. Gender,Female,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.B,c. Youth/Adult,b. Adult,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.C,b. Gender,Male,,,1,Youth
+project5,Chad,2017,Jul-Sep,2.C,c. Youth/Adult,b. Adult,,,1,Youth
+project5,Chad,2017,Jul-Sep,1.C,d. Age Range,c. Young adulthood (20-24),,,1,Youth
+project5,Chad,2017,Jul-Sep,1.C,d. Age Range,d. Transition to adulthood (25-29),,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.C,f. Location,Urban,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.C,a. Country,Overall,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.C,b. Gender,Male,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.C,d. Age Range,d. Transition to adulthood (25-29),,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.C,h. Intensity of Intervention,c. Long-term,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.B,f. Location,Urban,,,1,Youth
+project5,Comoros,2017,Jul-Sep,2.A,f. Location,Rural,,,1,Youth
+project5,Comoros,2017,Jul-Sep,2.B,a. Country,Overall,,,1,Youth
+project5,Comoros,2017,Jul-Sep,2.B,b. Gender,Male,,,1,Youth
+project5,Comoros,2017,Jul-Sep,2.B,c. Youth/Adult,b. Adult,,,1,Youth
+project5,Comoros,2017,Jul-Sep,2.C,c. Youth/Adult,a. Youth,,,1,Youth
+project5,Comoros,2017,Jul-Sep,2.C,c. Youth/Adult,b. Adult,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.A,d. Age Range,d. Transition to adulthood (25-29),,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.A,f. Location,Urban,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.B,a. Country,Overall,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.B,h. Intensity of Intervention,c. Long-term,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.B,b. Gender,Male,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.A,a. Country,Overall,,,1,Youth
+project5,Comoros,2017,Jul-Sep,1.A,b. Gender,Male,,,1,Youth
+project5,Comoros,2017,Jul-Sep,2.E,b. Gender,Male,,,1,Youth
+project5,Comoros,2017,Jul-Sep,2.E,a. Country,Overall,,,1,Youth
+project5,Congo,2017,Jul-Sep,1.B,f. Location,Urban,,,1,Youth
+project5,Congo,2017,Jul-Sep,1.B,f. Location,Rural,,,1,Youth
+project5,Congo,2017,Jul-Sep,1.C,f. Location,Urban,,,1,Youth

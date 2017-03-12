@@ -1,0 +1,130 @@
+---
+title: "IREX flexdashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    runtime: shiny
+    orientation: rows
+    social: menu
+    source: embed
+--- 
+
+```{r global, include=FALSE} 
+knitr::opts_chunk$set(cache = TRUE)
+library(dplyr)
+library(viridisLite)
+library(ggplot2)
+library(plotly)
+library(tidyverse)
+library(rgdal)
+library(sp)
+library(leaflet)
+library(magrittr)
+library(maptools)
+library(rgeos)
+library(RColorBrewer)
+library(maptools)
+library(devtools)
+library(flexdashboard)
+library(shiny)
+library(DT)
+
+##read in project data
+maptest<-read.csv("maptest.csv",header=TRUE)
+dashtest<-read.csv("dashtest.csv",header=TRUE)
+
+list<-c("program", "country","FY","period","indicator number","disaggregation","disaggregation value","timing","noData","results","practice area")
+names(dashtest)<-list 
+
+##what was the below code supposed to do? it was preventing the disaggregations from being displayed properly
+#dashtest2<-dashtest %>% filter(disaggregation=="a. Country") %>% .[,c(1,2,3,4,5,10,11)]
+dashtest2 <- dashtest
+
+```
+
+
+
+
+Page 1 : Overall Country Results Per Indicator {data-icon="fa-list"}
+===================================== 
+
+Column {.sidebar}
+-------------------------------------
+### Inputs
+
+```{r}
+selectInput("practice_area", label="Practice Area", choices=unique(dashtest2$`practice area`))
+
+selectInput("indicator_number", label="Indicator Number", choices=sort(unique(dashtest2$`indicator number`)))
+
+selectInput("country", label="Country", choices=unique(dashtest2$country)) 
+
+
+```
+
+Row
+------------------------------------- 
+
+
+### Value Boxes 
+
+
+
+### Histogram
+
+
+
+Row
+------------------------------------- 
+
+### Map
+
+### Table Chart 4  
+
+```{r cache=FALSE}
+DT::renderDataTable({ 
+  #countrySelected = as.character(input$country) 
+selectedDataset = subset(dashtest2, `practice area`==input$practice_area) 
+selectedDataset = subset(selectedDataset,country==input$country) 
+selectedDataset = subset(selectedDataset, `indicator number`==input$indicator_number)
+selectedDataset = subset(selectedDataset, select = c(program,country,results))
+  DT::datatable(selectedDataset, options = list(
+    pageLength = 10
+  ))
+})
+```
+
+Page 2 : Deep Dive into disaggregation {data-icon="fa-map"}
+===================================== 
+
+Column {.sidebar}
+-------------------------------------
+### Inputs
+
+```{r}
+
+selectInput("indicator_number", label="Indicator Number", choices=sort(unique(dashtest2$`indicator number`)))
+
+selectInput("disaggregation", label="Disaggregation", choices=sort(unique(dashtest2$disaggregation))) 
+
+# Only show this panel if a specific disaggregation type is selected
+   conditionalPanel(
+      condition = "input.disaggregation == 'b. Gender'",
+      selectInput("gender_type", label="Gender", c("Male","Female")))  
+   
+   conditionalPanel(
+      condition = "input.disaggregation == 'a. Country'",
+      selectInput("country_name", label="Country", c("All", "Australia"))) 
+```
+
+Row
+------------------------------------- 
+
+### Statistics
+
+### Bubble Chart
+
+Row
+------------------------------------- 
+
+### Table 
+
