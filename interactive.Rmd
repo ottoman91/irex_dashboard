@@ -30,7 +30,7 @@ library(DT)
 
 ##read in project data
 maptest<-read.csv("maptest.csv",header=TRUE)
-dashtest<-read.csv("dashtest.csv",header=TRUE)
+dashtest<-read.csv("sfTest.csv",header=TRUE)
 
 list<-c("program", "country","FY","period","indicator number","disaggregation","disaggregation value","timing","noData","results","practice area")
 names(dashtest)<-list 
@@ -70,10 +70,20 @@ Row
 
 
 ### Histogram
+```{r cache=FALSE}
+
+renderPlot({ 
+  histogramDataset = subset(dashtest2, `practice area`==input$practice_area) 
+  histogramDataset = subset(histogramDataset,country==input$country) 
+  histogramDataset = subset(histogramDataset, `indicator number`==input$indicator_number)
+
+  ggplot(histogramDataset,aes(x=results)) + geom_histogram()
+
+})
+```
 
 
-
-Row
+Row {.tabset}
 ------------------------------------- 
 
 ### Map
@@ -105,6 +115,9 @@ Column {.sidebar}
 selectInput("indicator_number", label="Indicator Number", choices=sort(unique(dashtest2$`indicator number`)))
 
 selectInput("disaggregation", label="Disaggregation", choices=sort(unique(dashtest2$disaggregation))) 
+
+#testing whether there is a better way to select the disaggregation values
+#dataset_disaggregation = subset(dashtest2,disaggregation==disaggregation)
 
 # Only show this panel if a specific disaggregation type is selected
    conditionalPanel(
