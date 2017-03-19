@@ -110,23 +110,78 @@ Column {.sidebar}
 -------------------------------------
 ### Inputs
 
-```{r}
+```{r cache=FALSE}
 
 selectInput("indicator_number", label="Indicator Number", choices=sort(unique(dashtest2$`indicator number`)))
 
 selectInput("disaggregation", label="Disaggregation", choices=sort(unique(dashtest2$disaggregation))) 
 
+#The below block of code is still under testing
 #testing whether there is a better way to select the disaggregation values
-#dataset_disaggregation = subset(dashtest2,disaggregation==disaggregation)
+#dataset_disaggregation = subset(dashtest2,disaggregation==input.disaggregation)
+#vector_choice = sort(unique(dataset_disaggregation$`disaggregation value`)) 
+
 
 # Only show this panel if a specific disaggregation type is selected
-   conditionalPanel(
-      condition = "input.disaggregation == 'b. Gender'",
-      selectInput("gender_type", label="Gender", c("Male","Female")))  
+  conditionalPanel(
+       condition = "input.disaggregation == 'b. Gender'",
+       selectInput("gender_type", label="Gender",c("Male","Female")))  
    
    conditionalPanel(
-      condition = "input.disaggregation == 'a. Country'",
-      selectInput("country_name", label="Country", c("All", "Australia"))) 
+       condition = "input.disaggregation == 'a. Country'",
+       selectInput("country_name", label="Country", c("Overall")))   
+   
+   conditionalPanel(
+       condition = "input.disaggregation == 'c. Youth/Adult'",
+       selectInput("youth_adult", label="Youth/Adult", c("a. Youth","b. Adult"))) 
+   
+     conditionalPanel(
+       condition = "input.disaggregation == 'd. Age Range'",
+       selectInput("age_range", label="Age Range", c("a. Adolescence (10-14)","b. Late adolescence (15-19)","c. Young adulthood (20-24)","d. Transition to adulthood (25-29)")))  
+     
+     conditionalPanel(
+       condition = "input.disaggregation == 'e. Underserved Group'",
+       selectInput("undeserved_group", label="Undeserved Group", c("a. underserved due to sexual orientation","b. Persons with disabilities","c. Low economic status ","d. Racial/ethnic/religious group","e. Other","Overall                                 ")))  
+     
+      conditionalPanel(
+       condition = "input.disaggregation == 'f. Location'",
+       selectInput("location", label="Location", c("Rural","Semi-urban","Urban")))  
+      
+      conditionalPanel(
+       condition = "input.disaggregation == 'g. Type of Education/Employment Status Change'",
+       selectInput("education_emloyment_status", label="Type of Education/Employment Status", c("From unemployment to part-time/informal employment","Received promotion to more senior position and/or salary increase","Started own business or enterprise")))   
+      
+       conditionalPanel(
+       condition = "input.disaggregation == 'h. Intensity of Intervention'",
+       selectInput("intensity_of_intervention", label="Intensity of Intervention", c("a. Short-term","b. Medium-term","c. Long-term ")))   
+       
+       conditionalPanel(
+       condition = "input.disaggregation == 'i. Number Employers Engaged in Following Ways'",selectInput("employers_engaged", label="Number Employers Engaged in Following Ways", c("Contributing to educational content/curricula","Internships/apprenticeships")))   
+       
+       conditionalPanel(
+       condition = "input.disaggregation == 'j. Employer Type'",selectInput("employer_type", label="Employer Type", c("Civil society/media Government","Other", "Private sector"))) 
+       
+        conditionalPanel(
+       condition = "input.disaggregation == 'k. Leader Type'",selectInput("leader_type", label="Leader Type", c("CSO","Educator", "HEI/Career center Library ","Media","Other"))) 
+        
+        conditionalPanel(
+       condition = "input.disaggregation == 'l. Collaboration Type'",selectInput("collaboration_type", label="Collaboration Type", c("Between education institutions Between libraries","CSO to CSO", " Media to media outlet ","Other"))) 
+        
+        conditionalPanel(
+       condition = "input.disaggregation == 'm. Institution Type'",selectInput("institution_type", label="Institution Type", c("CSO","Government agency/institution", "HEI/Community college/Career center","Library","Non-state news outlet","Other","Primary/secondary school"))) 
+        
+         conditionalPanel(
+       condition = "input.disaggregation == 'Media Type'",selectInput("media_type", label="Media Type", c("Online Radio","TV"))) 
+         
+         conditionalPanel(
+       condition = "input.disaggregation == 'n. Media Partner Type'",selectInput("media_partner_type", label="Media Partner Type", c("Citizen Journalist","Mixed Media Outlet","Print Media Outlet","Radio Outlet","TV Outlet"))) 
+         
+         conditionalPanel(
+       condition = "input.disaggregation == 'o. Educator Institution Type'",selectInput("educator_institution_type", label="Educator Institution Type", c("Primary/secondary school")))
+ 
+          conditionalPanel(
+       condition = "input.disaggregation == 'p. Employer engaged by IREX/partner'",selectInput("engagement_type", label="Engaged By", c("a.  IREX","b. IREX partner"))) 
+#selectInput("disaggregation_category",label="Disaggregation #Value",choices=vector_choice)
 ```
 
 Row
